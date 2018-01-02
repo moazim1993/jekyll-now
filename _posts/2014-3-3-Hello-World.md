@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portfolio
+title: 'Projects:'
 published: true
 ---
 # Site is still under constructions
