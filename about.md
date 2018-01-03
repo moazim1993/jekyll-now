@@ -11,14 +11,15 @@ I am currently seeking employment in a data related role. Also, if you have any 
 ### Areas of interest
 - Python: `numpy`, `scipy`, `sklearn`, `pandas`, `matplotlib`, `nltk`
 - Spark: `PySpark`, `Spark SQL`,`Spark Streaming`
+- Statistics: `Hypothesis Testing`, ``
 - Machine Learning:
-    - Learning Models: `Logistic Regression`, `Support Vector Machine`, `Naive Bayse`, `Neural Network`, `Decision Tree`, `Random Forest`
-    - Dimentionality Reduction:  `Independent Component Analysis`, `Principle Component Analysis`, `Bag of Words`, `Decision Tree`, 
-    - Clusturing: `K-Means Clustering`, `hierarchical clustering`
+    - Learning Models: `Logistic Regression`, `Support Vector Machine`, `Naive Bayse`, `Neural Network`, `Random Forest`,  `Decision Tree`, `K-Means Classifier`
+    - Dimentionality Reduction:  `Independent Component Analysis`, `Principle Component Analysis`, `Akaike Information Criterion`, `Bayesian Information Criterion`
+    - Clusturing: `K-Means Clustering`, `hierarchical clustering`, `DBSCAN`
 - Artificial Intelligence:
 	- Search : `Tree Search`, `Adversarial Search`, `Genetic Search`
     - Reasoning & Planing : `Logic`, `Propositional Logic`, `Resolution`, `Plaining`
-    - Probabilistic : `Baysian Network`, `Hidden Markov Model`, `Dynamic Bayesnet`
+    - Probabilistic : `Baysian Network`, `Hidden Markov Model`, `Kalman Filter`, `Dynamic Bayesnet`
 - Concepts: `Lambda Architecture`, `Object Oriented Programming`
 
 
