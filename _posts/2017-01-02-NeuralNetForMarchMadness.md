@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Neural Network for Predicting March Madness Brackets (Fall 2016)
 
