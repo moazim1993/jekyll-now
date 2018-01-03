@@ -12,5 +12,3 @@ PySpark Tutorial with Twitter Stream (Fall 2017)
 •	The project showcased Sparks speed capabilities by performing feature informativeness on live tweets and visualized 
 Technologies: `Spark`, `PySpark`, `Spark Streaming`
 ---
-
-
