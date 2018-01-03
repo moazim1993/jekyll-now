@@ -19,5 +19,4 @@ I am currently seeking employment in a data related role. Also, if you have any 
 - Artificial Intelligence
 
 ### Contact me
-
 [moazim1993@gmail.com](mailtomoazim1993@gmail.com)
