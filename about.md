@@ -9,9 +9,18 @@ I am an aspiring data scientist and a Data Analytics graduate student at Fordham
 I am currently seeking employment in a data related role. Also, if you have any projects or ideas in mind that can use my background please feel free to contact me.
 
 ### Areas of interest
-- Python: `sklearn`, `pandas`, `matplotlib`, `nltk`
-- Spark: `PySpark`, `SQLContext`,`Spark Streaming`
+- Python: `numpy`, `scipy`, `sklearn`, `pandas`, `matplotlib`, `nltk`
+- Spark: `PySpark`, `Spark SQL`,`Spark Streaming`
+- Machine Learning:
+    - Learning Models: `Logistic Regression`, `Support Vector Machine`, `Naive Bayse`, `Neural Network`, `Decision Tree`, `Random Forest`
+    - Dimentionality Reduction:  `Independent Component Analysis`, `Principle Component Analysis`, `Bag of Words`, `Decision Tree`, 
+    - Clusturing: `K-Means Clustering`, `hierarchical clustering`
+- Artificial Intelligence:
+	- Search : `Tree Search`, `Adversarial Search`, `Genetic Search`
+    - Reasoning & Planing : `Logic`, `Propositional Logic`, `Resolution`, `Plaining`
+    - Probabilistic : `Baysian Network`, `Hidden Markov Model`, `Dynamic Bayesnet`
 - Concepts: `Lambda Architecture`, `Object Oriented Programming`
+
 
 ### Contact me
 [moazim1993@gmail.com](mailtomoazim1993@gmail.com)
