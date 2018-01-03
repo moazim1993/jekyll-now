@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 •	A collaborative big data tutorial about Apache Spark which helps beginners (who are familiar with python) get started with PySpark via an analytics project from installation to completion.
