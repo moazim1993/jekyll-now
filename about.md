@@ -10,17 +10,17 @@ I am currently seeking employment in a data related role. Also, if you have any 
 
 
 ### Things I've learned
-- Python: `numpy`, `scipy`, `sklearn`, `pandas`, `matplotlib`, `nltk`, and more  
-- Statistics: `Descriptive Statistics`, `Probability Theory`, `Sampling`, `Distributions`, `Independence`, `Confidence Interval`, `Hypothesis Testing`, `Analysis of Variance`, and `Regression`
-- Machine Learning:  
+Python: `numpy`, `scipy`, `sklearn`, `pandas`, `matplotlib`, `nltk`, and more  
+Statistics: `Descriptive Statistics`, `Probability Theory`, `Sampling`, `Distributions`, `Independence`, `Confidence Interval`, `Hypothesis Testing`, `Analysis of Variance`, and `Regression`
+Machine Learning:  
     - Learning Models: `Logistic Regression`, `Support Vector Machine`, `Naive Bayse`, `Neural Network`, `Random Forest`,  `Decision Tree`, and `K-Means Classifier`  
     - Dimentionality Reduction:  `Independent Component Analysis`, `Principle Component Analysis`, `Akaike Information Criterion`, and `Bayesian Information Criterion`  
     - Clusturing: `K-Means Clustering`, `hierarchical clustering`, and `DBSCAN`  
-- Artificial Intelligence:  
+Artificial Intelligence:  
 	- Search : `Tree Search`, `Adversarial Search`, and `Genetic Search`  
     - Reasoning & Planing : `Logic`, `Propositional Logic`, `Resolution`, and `Plaining`  
     - Probabilistic : `Baysian Network`, `Hidden Markov Model`, `Kalman Filter`, and `Dynamic Bayesnet`  
-- Concepts: `Lambda Architecture`, `Object Oriented Programming`, `Functional Programming`, and more
+Concepts: `Lambda Architecture`, `Object Oriented Programming`, `Functional Programming`, and more  
 
 
 ### Best way to contact me
