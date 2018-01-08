@@ -11,7 +11,7 @@ I am currently seeking employment in a data related role. Also, if you have any 
 
 ### Things I've learned
 Python: `numpy`, `scipy`, `sklearn`, `pandas`, `matplotlib`, `nltk`, and more  
-Statistics: `Descriptive Statistics`, `Probability Theory`, `Sampling`, `Distributions`, `Independence`, `Confidence Interval`, `Hypothesis Testing`, `Analysis of Variance`, and `Regression`
+Statistics: `Descriptive Statistics`, `Probability Theory`, `Sampling`, `Distributions`, `Independence`, `Confidence Interval`, `Hypothesis Testing`, `Analysis of Variance`, and `Regression`  
 Machine Learning:  
     - Learning Models: `Logistic Regression`, `Support Vector Machine`, `Naive Bayse`, `Neural Network`, `Random Forest`,  `Decision Tree`, and `K-Means Classifier`  
     - Dimentionality Reduction:  `Independent Component Analysis`, `Principle Component Analysis`, `Akaike Information Criterion`, and `Bayesian Information Criterion`  
