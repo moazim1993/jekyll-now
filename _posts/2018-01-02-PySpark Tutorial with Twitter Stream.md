@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![]({{site.baseurl}}/_posts/Project_Images/PySpark.png)
+![]({{site.baseurl}}./Project_Images/PySpark.png)
   
 ![Tutorial Flow]({{site.baseurl}}/./Project_Images/PySpark.png)  
   
