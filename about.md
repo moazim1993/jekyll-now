@@ -24,7 +24,7 @@ Artificial Intelligence:
     - Reasoning & Planing : `Logic`, `Propositional Logic`, `Resolution`, and `Plaining`  
     - Probabilistic : `Baysian Network`, `Hidden Markov Model`, `Kalman Filter`, and `Dynamic Bayesnet` 
   
-Concepts: `Lambda Architecture`, `Object Oriented Programming`, `Functional Programming`, and more  
+Concepts: `Lambda Architecture`, `Object Oriented Programming`, and more  
 
 
 ### Best way to contact me
